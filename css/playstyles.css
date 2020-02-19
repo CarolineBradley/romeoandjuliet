@@ -132,10 +132,10 @@ ul li ul {
     font-weight: lighter;
     visibility: hidden;
   opacity: 0;
-  min-width: 5rem;
+  min-width: 3rem;
     position: absolute;
   transition: all 0.5s ease;
-  margin-top: 1rem;
+  margin-top: 2.9rem;
     left: 0;
   display: none;
 }
