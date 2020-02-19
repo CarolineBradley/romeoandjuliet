@@ -64,6 +64,16 @@ h2.scene {
 font-size: 1.1em;
 text-align: center;
 }
+
+.scene a, .firstscene a
+{
+position: relative;
+bottom: 100px;
+
+}
+
+
+
 p.song {
 text-align: center;
 }
