@@ -23,6 +23,7 @@ text-align: center;
 background-color: rgb(205, 23, 25);
 color: white;
 }
+
 p.character {
 font-size: 1.1em;
 color: rgb(205, 23, 25);
@@ -69,10 +70,17 @@ text-align: center;
 {
 position: relative;
 bottom: 100px;
-
 }
 
+.act a {
+position: relative;
+bottom: 100px;
+}
 
+.dramatishead a {
+position: relative;
+bottom: 100px;  
+}
 
 p.song {
 text-align: center;
