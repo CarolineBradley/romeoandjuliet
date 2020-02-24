@@ -71,17 +71,17 @@ text-align: center;
 .scene a, .firstscene a
 {
 position: relative;
-bottom: 100px;
+bottom: 110px;
 }
 
 .act a {
 position: relative;
-bottom: 100px;
+bottom: 110px;
 }
 
 .dramatishead a {
 position: relative;
-bottom: 100px;
+bottom: 110px;
 }
 
 p.song {
