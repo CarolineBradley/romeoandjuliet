@@ -68,20 +68,18 @@ font-size: 1.1em;
 text-align: center;
 }
 
-.scene a, .firstscene a
-{
-position: relative;
-bottom: 100px;
+h1 a{
+margin-top: -1.5rem;
+padding-bottom: 3.2rem;
+display:block;
+color: white;
+background-color: white;
 }
 
-.act a {
-position: relative;
-bottom: 100px;
-}
-
-.dramatishead a {
-position: relative;
-bottom: 100px;
+h2 a {
+margin-top: -2.4rem;
+padding-bottom: 2.7rem;
+display:block;
 }
 
 p.song {
