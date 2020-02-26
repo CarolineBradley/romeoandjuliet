@@ -68,7 +68,7 @@ font-size: 1.1em;
 text-align: center;
 }
 
-h1 a{
+h1 a {
 margin-top: -1.5rem;
 padding-bottom: 3.2rem;
 display:block;
@@ -233,7 +233,7 @@ ul {
     width:0;
     position:relative;
     top: 2rem;
-
+max-width: 150px;
 }
 
 #navigation:target {
@@ -247,7 +247,7 @@ li {
     position: relative;
     text-decoration: none;
     min-width: 4rem;
-    text-align: center;
+    text-align: left;
 }
 
 
@@ -273,6 +273,7 @@ ul li ul {
   float:none;
   margin:0;
   position:static;
+
 }
 
 ul li ul li {
@@ -288,7 +289,7 @@ ul li:hover > ul, ul li ul:hover {
 
 /* now follows the media query that displays everyhing correctly on wider screens */
 
-@media only screen and (min-width: 820px) {
+@media only screen and (min-width: 720px) {
 
 h1.act, h1.dramatishead {
   font-size: 120%;
@@ -310,6 +311,7 @@ ul {
   overflow:visible;
   position:static;
   top:inherit;
+  max-width: 100%;
 
 }
 
@@ -318,6 +320,7 @@ li {
   display:inline-block;
   height:1.2rem;
   padding: .6rem .5rem;
+  text-align: center;
 }
 
 a.menu {
