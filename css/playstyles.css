@@ -300,6 +300,9 @@ margin:14px auto;
 
 }
 
+audio {
+  width:100%;
+}
 
 /* now follows the media query that displays everyhing correctly on wider screens */
 
