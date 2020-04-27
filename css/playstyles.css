@@ -306,6 +306,8 @@ audio {
 
 video {
   width:50%;
+  align-items: center;
+  margin:12px auto;
 }
 
 /* now follows the media query that displays everyhing correctly on wider screens */
