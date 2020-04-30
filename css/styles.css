@@ -4,7 +4,6 @@ body {
   font-size: 12px;
 }
 
-
 h1 {
 display:none;
 }
@@ -15,8 +14,9 @@ margin:10px auto;
   width: 75%;
     border:1px solid black;
       overflow:auto;
+      text-align:justify;
+    vertical-align: middle;
 }
-
 
 img {
 display: block;
